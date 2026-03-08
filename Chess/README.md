@@ -1,1 +1,1 @@
-### CHESS from L'Arcade Magique
+![](../.github/images/arcade-magique-chess-logo-black.png)
