@@ -1,1 +1,1 @@
-# arcade-magique
+![](.github/images/arcade-magique-logo-black.png)
