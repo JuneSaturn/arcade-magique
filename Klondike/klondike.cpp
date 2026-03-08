@@ -5,7 +5,7 @@
 
 using namespace std;
 
-string gamename = "Solitaire Klondike";
+string gamename = "Klondike Solitaire";
 
 int main()
 {
