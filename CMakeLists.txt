@@ -11,7 +11,7 @@ endif()
 project ("Arcade-Magique")
 
 # Include sub-projects.
-add_subdirectory("Common")
+add_subdirectory ("Common")
 add_subdirectory ("Gomoku")
 add_subdirectory ("Chess")
 add_subdirectory ("Sudoku")

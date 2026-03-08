@@ -1,8 +1,8 @@
-﻿add_library(Common STATIC
-    "Common.cpp"
-    "Common.h"
+﻿add_library(common STATIC
+    "common.cpp"
+    "common.h"
 )
 
-target_include_directories(Common PUBLIC
+target_include_directories(common PUBLIC
     ${CMAKE_CURRENT_SOURCE_DIR} 
 )
