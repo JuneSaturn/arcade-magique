@@ -1,5 +1,5 @@
 ![](.github/images/arcade-magique-logo-black.png)
-#### L'Arcade Magique
+#### L'Arcade Magique: A lightweight minigame bundle
 
 * Gomoku
 * Nonogram
